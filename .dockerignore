@@ -1,0 +1,8 @@
+node_modules/
+testing/
+coverage/
+database/
+sonar-project.properties
+README.md
+package-lock.json
+.git
